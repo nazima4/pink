@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83bcf192-4696-44f7-86aa-81778f660d23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tn9a47Nbnbsbomvp2UtUuTdfcP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\hw4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\hw4\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83bcf192-4696-44f7-86aa-81778f660d23" name="Default Changelist" comment="" />
+      <created>1623394051809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623394051809</updated>
+      <workItem from="1623394055382" duration="6000" />
+      <workItem from="1623394068922" duration="255000" />
+      <workItem from="1623395294777" duration="545000" />
+      <workItem from="1623395853568" duration="4000" />
+      <workItem from="1623395881937" duration="939000" />
+      <workItem from="1623396902384" duration="842000" />
+      <workItem from="1623397803002" duration="426000" />
+      <workItem from="1623398746143" duration="1770000" />
+      <workItem from="1623400568270" duration="3419000" />
+      <workItem from="1623404182737" duration="8347000" />
+      <workItem from="1623654907540" duration="10511000" />
+      <workItem from="1623733892696" duration="1724000" />
+      <workItem from="1623737835819" duration="398000" />
+      <workItem from="1623738700317" duration="8000" />
+      <workItem from="1623738805387" duration="6000" />
+      <workItem from="1623739307482" duration="17000" />
+      <workItem from="1623748551415" duration="37000" />
+      <workItem from="1623820066081" duration="79000" />
+      <workItem from="1623820251738" duration="499000" />
+      <workItem from="1623820824207" duration="116000" />
+      <workItem from="1624735171221" duration="134000" />
+      <workItem from="1624735779439" duration="41000" />
+      <workItem from="1627369931223" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
